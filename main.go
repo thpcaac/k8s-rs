@@ -1,1 +1,7 @@
-package k8s_rs
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Print("hello world")
+}
